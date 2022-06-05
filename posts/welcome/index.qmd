@@ -5,7 +5,9 @@ date: "2022-06-02"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in a Quarto blog.
+Welcome!
+:)
 
 ![](thumbnail.jpg)
 
